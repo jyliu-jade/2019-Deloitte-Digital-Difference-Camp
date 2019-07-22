@@ -4,15 +4,18 @@ We are the group JARVIS of four students, participating in the Intelligent Produ
 ## Problem Definition
 ### Competition case I - Create a Company Profile
 
-### Problem Description
-Supply chain 
+#### Problem Description
+With the rapid development of big data, "company profile" has become important in decision-making process for business activities and supervision. Decision makers can identify features and risks for a company by collecting
+business activities and supervision. Decision makers can identify features and risks for a company by collecting information on a company's basics, finance, inter-company relationships, external evaluation, etc. Based on such analysis framework, decision makers can create a company profile and proactively identify the characteristics and risks related to enterprise.
+
+In the scenario of choosing new suppliers,.... tbc 
 
 
 ## Members
 * Shi Jiaying
 * Jiayao Liu 
-  * Item 2a
-  * Item 2b
+* Xintong Zhang
+* Zhibo Yu 
 
 
 
