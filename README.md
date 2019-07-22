@@ -13,9 +13,9 @@ In the scenario of choosing new suppliers,.... tbc
 
 ## Members
 * Shi Jiaying
-* Jiayao Liu 
-* Xintong Zhang
-* Zhibo Yu 
+* Liu Jiayao 
+* Zhang Xintong 
+* Yu Zhibo 
 
 
 
