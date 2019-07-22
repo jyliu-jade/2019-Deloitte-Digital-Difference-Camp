@@ -1,3 +1,22 @@
+## Introduction
+We are the group JARVIS of four students, participating in the Intelligent Product Design Competition - 2019 Deloitte Digital Difference Camp.
+
+## Problem Definition
+### Competition case I - Create a Company Profile
+
+### Problem Description
+Supply chain 
+
+
+## Members
+* Shi Jiaying
+* Jiayao Liu 
+  * Item 2a
+  * Item 2b
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jyliu-jade/2019-Deloitte-Digital-Difference-Camp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
