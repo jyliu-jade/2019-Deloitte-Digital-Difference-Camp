@@ -19,12 +19,18 @@ In the scenario of choosing new suppliers,.... tbc
 
 
 ## Video
-tbc
-https://github.com/jyliu-jade/2019-Deloitte-Digital-Difference-Camp/blob/master/%E9%A2%98%E7%9B%AE.pdf
-[Problem](https://github.com/jyliu-jade/2019-Deloitte-Digital-Difference-Camp/blob/master/%E9%A2%98%E7%9B%AE.pdf)
+Please see our video at https://www.youtube.com/watch?v=Rr2Yx8ABLSs
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+[![Everything Is AWESOME](https://img.youtube.com/vi/Rr2Yx8ABLSs/0.jpg)](https://www.youtube.com/watch?v=Rr2Yx8ABLSs "Everything Is AWESOME")
+
+
+
+
+
+
+
+
+
 
 ## Welcome to GitHub Pages
 
