@@ -12,10 +12,14 @@ In the scenario of choosing new suppliers,.... tbc
 
 
 ## Members
+* Liu Jiayao
 * Shi Jiaying
-* Liu Jiayao 
 * Zhang Xintong 
-* Yu Zhibo 
+* Yi Zhibo 
+
+
+## Video
+tbc
 
 
 
